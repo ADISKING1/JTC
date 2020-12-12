@@ -1,0 +1,16 @@
+{
+"companyName": "ADISKING1",
+"productName": "Meme Rewind",
+"productVersion": "0.1",
+"dataUrl": "Webgl 0.1.data.unityweb",
+"wasmCodeUrl": "Webgl 0.1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Webgl 0.1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}

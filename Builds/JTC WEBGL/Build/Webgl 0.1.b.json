@@ -1,0 +1,16 @@
+{
+"companyName": "ADISKING1",
+"productName": "JTC",
+"productVersion": "0.1",
+"dataUrl": "Webgl 0.1.b.data.unityweb",
+"wasmCodeUrl": "Webgl 0.1.b.wasm.code.unityweb",
+"wasmFrameworkUrl": "Webgl 0.1.b.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
